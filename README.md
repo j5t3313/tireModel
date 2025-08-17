@@ -1,5 +1,3 @@
-# tireModel
-Tire modeling script to go with the f1-strategy-simulator
 
 # F1 Tire Model Prebuilder (v1)
 
